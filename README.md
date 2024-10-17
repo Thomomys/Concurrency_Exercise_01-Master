@@ -1,4 +1,4 @@
-# Task 01: Package Manager
+# Package Manager
 
 Solve the problem described below, and submit a link to the repository containing your solution to us.
 
